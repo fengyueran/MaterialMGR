@@ -1,2 +1,2 @@
 # MaterialMGR
-Test code corresponding to the article(www.xinghun.com) one by one 
+Test code corresponding to the article(www.xinghunm.com) one by one 
